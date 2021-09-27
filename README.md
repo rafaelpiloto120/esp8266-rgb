@@ -1,4 +1,4 @@
-# Projet Crypto Night Light Led
+# Project Crypto Night Light Led
 Very simple project with Neopixel for D1 Mini ESP8266. It is based on the Adafruit Neopixel library.
 
 The goal is basically to set a color and brightness to a WS2812B led.
