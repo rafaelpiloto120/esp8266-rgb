@@ -33,14 +33,18 @@ To code and upload code for the Wemos D1 Mini, use The Arduino IDE.
 ![Configure ESP8266 in Arduine IDE](https://github.com/rafaelpiloto120/esp8266-rgb/blob/main/001.png)
 
 4. Then open Tools>Board>Boards Manager Search for ESP Install latest ESP8266 Board Manager
+
 ![Configure ESP8266 in Arduine IDE 2](https://github.com/rafaelpiloto120/esp8266-rgb/blob/main/002.png)
 
 5. Add Additional Libraries Therefore open Sketch>Include Library>Manage Libraries... Search for Adafruit Neopixel Install latest Adafruit Neopixel library
+
 ![Configure ESP8266 in Arduine IDE 3](https://github.com/rafaelpiloto120/esp8266-rgb/blob/main/003.png)
 
 * Restart Arduino IDE
 * Open the file working_light_object.ino
 * Configure the color light and brightness you wish for the led
+
 ![Configure ESP8266 in Arduine IDE 4](https://github.com/rafaelpiloto120/esp8266-rgb/blob/main/RGB_Led_Config.png)
+
 * Choose your board and com port
 * Upload
