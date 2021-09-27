@@ -18,7 +18,7 @@ This is one the key steps. Please sure you connect the cables correctly between 
 ![Image of ESP8266 to WS2812b RGB Led connections](https://github.com/rafaelpiloto120/esp8266-rgb/blob/main/Screenshot_1.png)
 
 ## Printed Parts
-The models to be 3D printed can be found here:  https://www.thingiverse.com/thing:2974862
+The models to be 3D printed can be found here:  https://www.thingiverse.com/thing:4976261
 
 ## The Arduino IDE
 
