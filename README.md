@@ -40,5 +40,7 @@ To code and upload code for the Wemos D1 Mini, use The Arduino IDE.
 
 * Restart Arduino IDE
 * Open the file working_light_object.ino
+* Configure the color light and brightness you wish for the led
+![Configure ESP8266 in Arduine IDE 4](https://github.com/rafaelpiloto120/esp8266-rgb/blob/main/RGB_Led_Config.png)
 * Choose your board and com port
 * Upload
