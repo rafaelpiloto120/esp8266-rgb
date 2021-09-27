@@ -39,5 +39,6 @@ To code and upload code for the Wemos D1 Mini, use The Arduino IDE.
 ![Configure ESP8266 in Arduine IDE 3](https://github.com/rafaelpiloto120/esp8266-rgb/blob/main/003.png)
 
 * Restart Arduino IDE
+* Open the file working_light_object.ino
 * Choose your board and com port
 * Upload
